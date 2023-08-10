@@ -8,7 +8,6 @@
 - 下载项目
 `pears-cli --vresion`
 
-```
-
 ## 使用文档
+
 > github地址链接 https://github.com/yanyuehai/pear-cli

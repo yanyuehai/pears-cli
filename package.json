@@ -1,6 +1,6 @@
 {
   "name": "pears-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
