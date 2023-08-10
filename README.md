@@ -10,4 +10,4 @@
 
 ## 使用文档
 
-> github地址链接 https://github.com/yanyuehai/pear-cli
+> github地址链接 https://github.com/yanyuehai/pears-cli
