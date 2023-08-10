@@ -18,17 +18,11 @@ program.version(`@pears/cli  v${package.version}`)
 // 提供模板
 const templates = [
     {
-        name: "pear-admin-react",
+        name: "pear-react-element",
         value: 'https://github.com:yanyuehai/pear-element'
     }, {
-        name: 'pear-admin-vue',
-        value: 'https://github.com:guojiongwei/webpack5-react-ts'
-    }, {
-        name: 'react空模板',
-        value: ''
-    },{
-        name: 'vue空模板',
-        value: ''
+        name: 'pear-react-admin',
+        value: 'https://github.com/yanyuehai/pear-react-admin'
     }
 ]
 // loading 加载
